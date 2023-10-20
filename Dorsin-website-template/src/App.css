@@ -1,0 +1,114 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box !important;
+
+}
+body{
+  background-color:rgb(255, 255, 255);
+}
+
+
+
+.spacing{
+  letter-spacing:0.2em;
+  font-size: 20px !important;
+  margin-right: 100px !important;
+  
+}
+.btn-nav{
+  color:#ffffff;
+  background-color: #fb3e3e !important;
+}
+.bg_img{
+  background-image: url(./images/extra/bg-home.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 90vh;
+  /* width: 100%; */
+  text-align: center;
+}
+.bg_color{
+  background-image: linear-gradient(to right, rgba(83, 36, 184, 0.85) , rgba(155, 11, 155, 0.85));
+  height: 90vh;
+  color: white;
+}
+.bg_img1{
+  background-image: url(images/extra/bg-home.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 70vh;
+  /* width: 100%; */
+  text-align: center;
+}
+.bg_color1{
+  background-image: linear-gradient(to right, rgba(83, 36, 184, 0.85) , rgba(155, 11, 155, 0.85));
+  height: 70vh;
+  color: white;
+}
+.heading{
+  font-size: 45px;
+}
+.p_sm{
+  font-size: 12px;
+}
+.p_md{
+  font-size: 14px;
+  font-weight: 500;
+}
+.play_btn{
+  color: #fb3e3e;
+  border: 2px solid #fb3e3e;
+  border-radius: 50%;
+}
+
+.background {
+  background-image: url("./images/extra/bg-home.jpg");
+  background-size: cover;
+  /* width: 100vw; */
+  height: 100vh;
+}
+
+.backColor {
+  background: linear-gradient(to right, #512da8, #711e72);
+  opacity: 0.9;
+  /* width: 100vw; */
+  height: 100vh;
+}
+
+.banner {
+  height: 84vh;
+}
+
+.banner h1 {
+  font-size: 50px !important;
+}
+
+.marginB {
+  border-bottom: 2px solid red;
+  display: inline-block;
+  width: 43px;
+}
+
+.sec4 {
+  background-image: url('./images/extra/bg-home.jpg');
+  width: 100%;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+
+.sec4Color {
+  background: linear-gradient(to right, #512da8, #711e72);
+  opacity: 0.9;
+  /* width: 100vw; */
+  height: 100%;
+}
+
+.footInp::placeholder{
+  color: white;
+}
+
+.foot2{
+  background-color: #2e313a;
+}
